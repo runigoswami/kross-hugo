@@ -4,7 +4,7 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Runi Goswami | Design Portfolio"
 [[menu.main]]
-URL = ""
+URL = "about"
 name = "Resume"
 url = ""
 weight = ""
