@@ -18,7 +18,7 @@ URL = "portfolio"
 name = "Portfolio"
 weight = 1
 [params]
-address = "New York, NY"
+address = ""
 author = "Runi Goswami"
 copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 description = "Runicorn design"
@@ -26,7 +26,7 @@ email = "runigoswami@gmail.com"
 google_analytics_id = ""
 home = "Home"
 logo = "images/Logo-Runi-vector.svg"
-phone = "+1 571 345 8928"
+phone = ""
 social = []
 theme_color = "#4323C0"
 [params.contact]
