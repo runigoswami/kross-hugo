@@ -4,7 +4,7 @@ item:
   project_url: http://examplesite.com
   category: design
 - image: images/portfolio/item-2.png
-  project_url: "#"
+  project_url: "/portfolio"
   category: branding
 - image: images/portfolio/item-3.png
   project_url: http://examplesite.com
