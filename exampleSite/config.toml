@@ -27,7 +27,7 @@ google_analytics_id = ""
 home = "Home"
 logo = "images/Logo-Runi-vector.svg"
 phone = ""
-social = []
+social = ["https://www.linkedin.com/in/runigoswami/"]
 theme_color = "#4323C0"
 [params.contact]
 enable = false
