@@ -30,7 +30,7 @@ phone = "+1 571 345 8928"
 social = []
 theme_color = "#4323C0"
 [params.contact]
-enable = true
+enable = false
 form_action = "#"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
