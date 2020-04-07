@@ -4,7 +4,7 @@ PROJECT: Project Name
 VERSION: Versoin Number
 -------------------------------------------------------------------*/
 /*@import "https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:300,400,500,700";*/
-@import "https://fonts.googleapis.com/css?family=Lora:400,500,700|Roboto:300,400,500,700";
+@import "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700";
 
 @font-face {
   font-family: bwnistaint-xbd;
@@ -37,7 +37,7 @@ h5,
 h6 {
   color: #000;
   /*font-family: playfair display, serif;*/
-  font-family: lora, serif;
+  /*font-family: lora, serif;*/
   line-height: 1.2
 }
 
@@ -90,7 +90,7 @@ h6,
 .btn {
   font-size: 22px;
   /*font-family: playfair display, serif;*/
-  font-family: lora, serif;
+  font-family: roboto, sans-serif;
   text-transform: capitalize;
   padding: 16px 44px;
   border-radius: 5px;
@@ -336,7 +336,8 @@ a:hover {
 
 .font-secondary {
   /*font-family: playfair display, serif !important*/
-  font-family: lora, serif !important
+  /*font-family: lora, serif !important*/
+  font-family: bwnistaint-xbd !important
 }
 
 .font-tertiary {
