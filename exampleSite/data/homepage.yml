@@ -27,7 +27,7 @@ skill:
     color: "#C5D30A"
   - title: UX Research
     progress: 70%
-    color: "#FD877B"
+    color: "#F352A2"
 experience:
   enable: true
   title: Experience
