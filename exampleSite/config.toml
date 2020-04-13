@@ -11,6 +11,10 @@ weight = 3
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
+weight = 2
+[[menu.main]]
+URL = "resume"
+name = "Resume"
 weight = 1
 [params]
 address = ""
@@ -24,6 +28,9 @@ logo = "images/Logo-Runi-vector.svg"
 phone = ""
 social = ["https://www.linkedin.com/in/runigoswami/"]
 theme_color = "#4323C0"
+[[params.social]]
+URL = "https://www.linkedin.com/in/runigoswami/"
+icon = "ti-linkedin"
 [params.contact]
 enable = false
 form_action = "#"
