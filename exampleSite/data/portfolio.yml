@@ -1,32 +1,26 @@
 ---
 item:
 - image: images/portfolio/item-1.png
-  project_url: http://runi.netlify.com/test
+  project_url: https://www.figma.com/proto/PW2Jz6IykgrHc5SRH3d4mu/Portfolio-%E2%80%93-Project-Wildebeest?node-id=1%3A623&viewport=203%2C195%2C0.03489873185753822&scaling=min-zoom
   category: design
 - image: images/portfolio/item-2.png
-  project_url: "#"
+  project_url: https://www.figma.com/proto/ztqPPIFRZ388vTHk2dIPXb/Portfolio-%E2%80%93-Unity?node-id=275%3A229&viewport=448%2C241%2C0.07452956587076187&scaling=min-zoom
   category: branding
 - image: images/portfolio/item-3.png
-  project_url: http://examplesite.com
-  category: illustration
+  project_url: https://www.figma.com/proto/3EzMumGYtk7gt66ZzXmnUm/Portfolio-%E2%80%93-The-Weekly-Take-Redesign?node-id=1%3A623&viewport=281%2C258%2C0.07411347329616547&scaling=min-zoom
+  category: marketing
 - image: images/portfolio/item-5.png
-  project_url: "#"
+  project_url: https://www.figma.com/proto/cYhLpqzsWC5I9fW5WaW4GH/Data-Visualization-Recommendations?node-id=1%3A623&viewport=377%2C505%2C0.10450000315904617&scaling=min-zoom
   category: design
 - image: images/portfolio/item-8.png
-  project_url: http://examplesite.com
-  category: illustration
+  project_url: https://www.figma.com/proto/MIX5CkpiSf0KdLuwQGNwC6/Portfolio-Scout?node-id=1%3A773&viewport=656%2C531%2C0.05408434942364693&scaling=min-zoom
+  category: design
 - image: images/portfolio/item-6.png
-  project_url: "#"
+  project_url: https://www.figma.com/proto/qNgMSNKoxjhXB322Vv1qqP/Portfolio-%E2%80%93-Protofit?node-id=1%3A623&viewport=-28%2C-2716%2C0.49585965275764465&scaling=min-zoom
   category: design
 - image: images/portfolio/item-1.png
-  project_url: http://examplesite.com
-  category: branding
-- image: images/portfolio/item-3.png
-  project_url: "#"
-  category: illustration
-- image: images/portfolio/item-7.png
-  project_url: http://examplesite.com
-  category: branding
+  project_url: https://blocks.cbrebuild.com/
+  category: design system
 clients_logo_slider:
   enable: false
   title: My Clients
