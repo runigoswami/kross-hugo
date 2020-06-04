@@ -18,7 +18,7 @@ item:
 - image: "/images/dash-cover.png"
   project_url: https://www.figma.com/proto/MIX5CkpiSf0KdLuwQGNwC6/Portfolio-Scout?node-id=1%3A773&viewport=656%2C531%2C0.05408434942364693&scaling=min-zoom
   category:
-  - product/ux
+  - Product
 - image: "/images/datavisualizationresources.png"
   project_url: https://www.figma.com/proto/cYhLpqzsWC5I9fW5WaW4GH/Data-Visualization-Recommendations?node-id=1%3A623&viewport=377%2C505%2C0.10450000315904617&scaling=min-zoom
   category:
