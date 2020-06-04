@@ -6,16 +6,16 @@ VERSION: Versoin Number
 /*@import "https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:300,400,500,700";*/
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700|Montserrat;:300,400,600,700,800|Source+Sans+Pro:300,400,600,700);
 
-@font-face {
+/*@font-face {
   font-family: bwnistaint-xbd;
   src: url(../fonts/BwNistaInt-xBd.woff) format("woff");
   font-style: normal;
   font-display: swap
-}
+}*/
 
 body {
   line-height: 1.2;
-  font-family: bwnistaint-xbd, sans-serif;
+  font-family: lato, sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
   color: #4c4c4c
@@ -26,7 +26,7 @@ p {
   color: #4c4c4c;
   font-size: 15px;
   line-height: 1.8;
-  font-family: bwnistaint-xbd, sans-serif
+  font-family: $primary-font;
 }
 
 h1,
@@ -36,7 +36,7 @@ h4,
 h5,
 h6 {
   color: #000;
-  font-family: bwnistaint-xbd, sans-serif;
+  font-family: $primary-font;
   line-height: 1.2
 }
 
@@ -88,7 +88,7 @@ h6,
 
 .btn {
   font-size: 22px;
-  font-family: bwnistaint-xbd, sans-serif;
+  font-family: lato, sans-serif;
   text-transform: capitalize;
   padding: 16px 44px;
   border-radius: 5px;
@@ -224,7 +224,7 @@ a:hover {
 
 .section-title {
   margin-bottom: 80px;
-  font-family: bwnistaint-xbd
+  font-family: lato;
 }
 
 .bg-cover {
@@ -337,7 +337,7 @@ a:hover {
 }
 
 .font-tertiary {
-  font-family: bwnistaint-xbd !important
+  font-family: lato !important
 }
 
 .shadow {
@@ -442,7 +442,7 @@ textarea.form-control {
 }
 
 .navbar .nav-item .nav-link {
-  font-family: bwnistaint-xbd;
+  font-family: lato;
   text-transform: uppercase;
   padding: 15px
 }
@@ -743,7 +743,7 @@ blockquote {
 }
 
 .content strong {
-  font-family: playfair display, serif;
+  font-family: lato, serif;
   font-size: 22px;
   font-weight: 400;
   color: #000;
