@@ -3,7 +3,7 @@ item:
 - image: "/images/build3d-cover.png"
   project_url: https://www.figma.com/proto/PW2Jz6IykgrHc5SRH3d4mu/Portfolio-%E2%80%93-Project-Wildebeest?node-id=1%3A623&viewport=203%2C195%2C0.03489873185753822&scaling=min-zoom
   category: design
-- image: images/portfolio/item-2.png
+- image: "/images/unity-cover.png"
   project_url: https://www.figma.com/proto/ztqPPIFRZ388vTHk2dIPXb/Portfolio-%E2%80%93-Unity?node-id=275%3A229&viewport=448%2C241%2C0.07452956587076187&scaling=min-zoom
   category: branding
 - image: images/portfolio/item-3.png
