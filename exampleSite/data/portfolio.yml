@@ -18,7 +18,7 @@ item:
 - image: "/images/plans-cover.png"
   project_url: https://www.figma.com/proto/qNgMSNKoxjhXB322Vv1qqP/Portfolio-%E2%80%93-Protofit?node-id=1%3A623&viewport=-28%2C-2716%2C0.49585965275764465&scaling=min-zoom
   category: design
-- image: images/portfolio/item-1.png
+- image: "/images/home-1.png"
   project_url: https://blocks.cbrebuild.com/
   category: design system
 clients_logo_slider:
