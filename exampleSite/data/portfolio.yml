@@ -15,7 +15,7 @@ item:
 - image: "/images/dash-cover.png"
   project_url: https://www.figma.com/proto/MIX5CkpiSf0KdLuwQGNwC6/Portfolio-Scout?node-id=1%3A773&viewport=656%2C531%2C0.05408434942364693&scaling=min-zoom
   category: design
-- image: images/portfolio/item-6.png
+- image: "/images/plans-cover.png"
   project_url: https://www.figma.com/proto/qNgMSNKoxjhXB322Vv1qqP/Portfolio-%E2%80%93-Protofit?node-id=1%3A623&viewport=-28%2C-2716%2C0.49585965275764465&scaling=min-zoom
   category: design
 - image: images/portfolio/item-1.png
