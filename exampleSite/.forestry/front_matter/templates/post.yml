@@ -18,5 +18,4 @@ fields:
   name: link
   label: link
 pages:
-- exampleSite/content/blog/designing-for-interusability.md
 - exampleSite/data/resume.yml
