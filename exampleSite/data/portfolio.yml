@@ -20,7 +20,7 @@ item:
   category: []
 - image: "/images/blocks-cover.png"
   project_url: https://blocks.cbrebuild.com/
-  category: design system
+  category: []
 clients_logo_slider:
   enable: false
   title: My Clients
