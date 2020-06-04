@@ -26,7 +26,7 @@ item:
 - image: "/images/blocks-cover.png"
   project_url: https://blocks.cbrebuild.com/
   category:
-  - UX Resources
+  - Systems
 clients_logo_slider:
   enable: false
   title: My Clients
