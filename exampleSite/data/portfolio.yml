@@ -9,7 +9,7 @@ item:
 - image: "/images/weeklytake-cover.png"
   project_url: https://www.figma.com/proto/3EzMumGYtk7gt66ZzXmnUm/Portfolio-%E2%80%93-The-Weekly-Take-Redesign?node-id=1%3A623&viewport=281%2C258%2C0.07411347329616547&scaling=min-zoom
   category: marketing
-- image: images/portfolio/item-5.png
+- image: "/images/datavisualizationresources.png"
   project_url: https://www.figma.com/proto/cYhLpqzsWC5I9fW5WaW4GH/Data-Visualization-Recommendations?node-id=1%3A623&viewport=377%2C505%2C0.10450000315904617&scaling=min-zoom
   category: design
 - image: images/portfolio/item-8.png
