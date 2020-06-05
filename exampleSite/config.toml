@@ -52,5 +52,5 @@ icon = "ti-linkedin"
 url = "https://www.linkedin.com/in/runigoswami/"
 [[params.social]]
 URL = "https://medium.com/@loonyruni"
-icon = "ti-twitter"
+icon = "ti-twitter-alt"
 url = "https://medium.com/@loonyruni"
