@@ -574,7 +574,7 @@ textarea.form-control {
 .edu-bg-image {
   position: absolute;
   left: 0;
-  top: -300px;
+  top: -600px;
   z-index: -1
 }
 
