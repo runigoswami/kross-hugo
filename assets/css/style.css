@@ -872,6 +872,7 @@ blockquote {
 }
 
 .download-link {
+  text-decoration: underline;
   color: #fff;
 }
 
