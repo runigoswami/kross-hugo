@@ -870,3 +870,11 @@ blockquote {
 .filter-controls li.active {
   font-weight: 700
 }
+
+.download-link {
+  color: #fff;
+}
+
+.download-link:hover {
+  color: rgba(255,255,255,.75);
+}
