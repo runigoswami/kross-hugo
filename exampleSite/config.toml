@@ -47,6 +47,10 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
+URL = "https://medium.com/@loonyruni"
+icon = "ti-medium"
+url = "https://medium.com/@loonyruni"
+[[params.social]]
 URL = "https://www.linkedin.com/in/runigoswami/"
 icon = "ti-linkedin"
 url = "https://www.linkedin.com/in/runigoswami/"
