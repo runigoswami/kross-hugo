@@ -1,20 +1,40 @@
-# default configuration
 baseURL = "https://runi.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Runi Goswami | Design Portfolio"
-
-# css plugins
+[[menu.main]]
+URL = "about"
+name = "Resume"
+weight = 4
+[[menu.main]]
+URL = "writing"
+name = "Writing"
+weight = 3
+[[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
+weight = 2
+[params]
+address = "New York, NY"
+author = "Runi Goswami"
+copyright = ""
+description = "Runicorn design"
+email = "runigoswami@email.com"
+google_analytics_id = ""
+home = "Home"
+logo = "images/Logo-Runi-vector.svg"
+phone = "5713458928"
+theme_color = "#4323C0"
+[params.contact]
+enable = false
+form_action = "#"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 URL = "plugins/slick/slick.css"
 [[params.plugins.css]]
 URL = "plugins/themify-icons/themify-icons.css"
-
-
-# js plugin
 [[params.plugins.js]]
 URL = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
@@ -23,61 +43,10 @@ URL = "plugins/bootstrap/bootstrap.min.js"
 URL = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 URL = "plugins/shuffle/shuffle.min.js"
-
-
-# menu
-[[menu.main]]
-URL = "about"
-name = "Resume"
-weight = 4
-
-#[[menu.main]]
-#URL = "https://medium.com/@loonyruni"
-#name = "Writing"
-#url = "https://medium.com/@loonyruni"
-#weight = 3
-
-[[menu.main]]
-URL = "writing"
-name = "Writing"
-weight = 3
-
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 2
-
-# default parameters
-[params]
-home = "Home"
-logo = "images/Logo-Runi-vector.svg"
-# theme color
-theme_color = "#4323C0"
-# contact info
-phone = ""
-email = "runigoswami@email.com"
-address = ""
-# meta description
-author = "Runi Goswami"
-description = "Runicorn design"
-# google analytics
-google_analytics_id = "" # Your ID
-# copyright
-copyright = ""
-
-
-# contact
-[params.contact]
-enable = false
-form_action = "#" # contact form works with : https://formspree.io
-
-# preloader
 [params.preloader]
 enable = true
-preloader = "" # use png, jpg, svg or gif format
-
-# social site
+preloader = ""
 [[params.social]]
 URL = "https://www.linkedin.com/in/runigoswami/"
+icon = "/images/illustrations/dots-group-cyan.svg"
 url = "https://www.linkedin.com/in/runigoswami/"
-icon = "ti-facebook"
