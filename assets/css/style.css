@@ -35,7 +35,7 @@ h4,
 h5,
 h6 {
   color: #000;
-  font-family: playfair display, serif;
+  font-family: roboto, sans-serif;
   line-height: 1.2
 }
 
@@ -87,7 +87,7 @@ h6,
 
 .btn {
   font-size: 22px;
-  font-family: playfair display, serif;
+  font-family: roboto, sans-serif;
   text-transform: capitalize;
   padding: 16px 44px;
   border-radius: 5px;
@@ -332,7 +332,7 @@ a:hover {
 }
 
 .font-secondary {
-  font-family: playfair display, serif !important
+  font-family: roboto, sans-serif !important
 }
 
 .font-tertiary {
@@ -742,7 +742,7 @@ blockquote {
 }
 
 .content strong {
-  font-family: playfair display, serif;
+  font-family: roboto, sans-serif;
   font-size: 22px;
   font-weight: 400;
   color: #000;
