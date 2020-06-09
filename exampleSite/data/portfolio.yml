@@ -12,12 +12,12 @@ item:
 - image: "/images/blocks-cover.png"
   project_url: https://blocks.cbrebuild.com/
   category: systems
-- image: "/images/weeklytake-cover.png"
-  project_url: https://www.figma.com/proto/3EzMumGYtk7gt66ZzXmnUm/Portfolio-%E2%80%93-The-Weekly-Take-Redesign?node-id=1%3A623&viewport=281%2C258%2C0.07411347329616547&scaling=min-zoom
-  category: marketing
 - image: "/images/plans-cover.png"
   project_url: https://www.figma.com/proto/qNgMSNKoxjhXB322Vv1qqP/Portfolio-%E2%80%93-Protofit?node-id=1%3A623&viewport=-28%2C-2716%2C0.49585965275764465&scaling=min-zoom
   category: product
+- image: "/images/weeklytake-cover.png"
+  project_url: https://www.figma.com/proto/3EzMumGYtk7gt66ZzXmnUm/Portfolio-%E2%80%93-The-Weekly-Take-Redesign?node-id=1%3A623&viewport=281%2C258%2C0.07411347329616547&scaling=min-zoom
+  category: marketing
 - image: "/images/datavisualizationresources.png"
   project_url: https://www.figma.com/proto/klR6JfbzQ38NnNyq9sKWJ0/Portfolio-Data-Visualization-recommendations?node-id=1%3A623&viewport=377%2C505%2C0.10450000315904617&scaling=min-zoom
   category: systems
