@@ -36,18 +36,25 @@ experience:
     title: Senior Product Designer
     company: CBRE Build
     duration: Jan 2017 - Present
-    text1: Created and spearheaded adoption of our in-house design system (BlocksDS) across 7 product teams, decreasing our average go-to-market time by 75%. 
-    text2: Organize and lead cross-discipline product workshops; creating user journey maps, wireframes, prototypes, and user testing plans for the company’s broker operating platform.
+    text1: Created and spearheaded adoption of our in-house design system (BlocksDS)
+      across 7 product teams, decreasing our average go-to-market time by 75%.
+    text2: Organize and lead cross-discipline product workshops; creating user journey
+      maps, wireframes, prototypes, and user testing plans for the company’s broker
+      operating platform.
   - logo: images/experience/icon-2.png
     title: Product Designer
     company: Floored
     duration: Apr 2016 - Jan 2017
-    text1: Collaborated with the engineering team to prototype, design, and deliver interactive 3D visualization software for commercial real estate leading to the successful acquisition of Floored by CBRE. 
+    text1: Collaborated with the engineering team to prototype, design, and deliver
+      interactive 3D visualization software for commercial real estate leading to
+      the successful acquisition of Floored by CBRE.
   - logo: images/experience/icon-3.png
     title: Incubator co-founder
     company: DALI Lab, Dartmouth College
     duration: Aug 2013 - Oct 2015
-    text1: Lead and advised 25 project teams of undergraduate designers and engineers. Designed and coordinated 3 month interactive library exhibit, responsible for a 35% increase in lab applicants.
+    text1: Lead and advised 25 project teams of undergraduate designers and engineers.
+      Designed and coordinated 3 month interactive library exhibit, responsible for
+      a 35% increase in lab applicants.
 education:
   enable: true
   title: Education
@@ -55,7 +62,8 @@ education:
   - title: MS in Computer Science
     year: "2015"
     academy: Dartmouth College
-    text1: Culminating thesis project FrameShift accepted and presented at SIGGRAPH 2015.
+    text1: Culminating thesis project FrameShift accepted and presented at SIGGRAPH
+      2015.
   - title: BA in Neuroscience
     year: "2013"
     academy: Dartmouth College
@@ -81,7 +89,7 @@ service:
 portfolio:
   enable: true
   title: Portfolio
-  item_show: "8"
+  item_show: "9"
 testimonial:
   enable: false
   title: Testimonials
