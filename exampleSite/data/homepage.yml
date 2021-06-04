@@ -32,7 +32,7 @@ experience:
   enable: true
   title: Experience
   item:
-  - logo: images/experience/icon-0.png
+  - logo: "/images/icon-0.png"
     title: Senior Product Designer
     company: Lyft
     duration: Mar 2021 – Present
