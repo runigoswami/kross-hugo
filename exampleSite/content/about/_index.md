@@ -6,4 +6,4 @@ author_image: "/images/prof-5.jpg"
 author_signature: ''
 
 ---
-I'm a Senior Product Designer with 7 years of experience. I like designing systems and diagnosing interusability issues across platforms. Talk to me about the intersection of perceptual neuroscience, inclusive design, or why magical education is trash these days.
+I'm a Senior Product Designer with 8 years of experience. I like designing systems and diagnosing interusability issues across platforms. Talk to me about the intersection of perceptual neuroscience, inclusive design, or why magical education is trash these days.
