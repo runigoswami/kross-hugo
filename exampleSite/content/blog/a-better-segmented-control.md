@@ -1,10 +1,10 @@
 +++
-date = 2020-03-07T14:20:00Z
-description = "A stacking plan (also called stackplan) is a visual representation of a building showing a breakdown of space. Stacking plans serve many different user types and use cases but are typically brightly colored and information dense images— often optimized for a printed tour book."
+date = 2021-05-18T13:20:00Z
+description = "How we embraced a growth mindset and ended up with a more robust ecosystem of selection patterns"
 draft = true
-image = "/images/Stax.png"
-link = "https://medium.com/cbrebuild/the-quest-for-a-better-stacking-plan-64e276a96146"
+image = "/images/segmented-control-cover.png"
+link = "https://medium.com/tap-to-dismiss/a-better-segmented-control-9e662de2ef57"
 title = "A better segmented control"
 
 +++
-Blah
+Lyft segmented control
