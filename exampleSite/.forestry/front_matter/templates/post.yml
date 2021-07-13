@@ -18,4 +18,5 @@ fields:
   name: link
   label: link
 pages:
+- exampleSite/content/blog/how-to-systematize-internal-products.md
 - exampleSite/data/resume.yml
